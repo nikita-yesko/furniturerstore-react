@@ -1,7 +1,7 @@
 import './reset.css';
 import './app.css';
 
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Header from "./components/header/Header";
 import Footer from './components/footer/Footer';
@@ -23,7 +23,7 @@ function App() {
         <main>
         <Routes>
           
-          <Route path='/furniturerstore-react/' element={<HomePage/>}/>
+          <Route path='/furniturerstore-react' element={<HomePage/>}/>
           <Route path='/furniturerstore-react/product' element={<ProductPage/>}/>
           <Route path='/furniturerstore-react/allproducts' element={<AllProductsPage/>}/>
           <Route path='/furniturerstore-react/cart' element={<ShoppingCartPage/>}/>
