@@ -1,0 +1,96 @@
+.prefooter-content{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+    flex-wrap: wrap;
+}
+
+
+.prefooter-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 64px;
+    max-width: 536px;
+    padding: 72px 0 54px;
+}
+
+.prefooter-text__title{
+
+    margin-bottom: 25px;
+font-size: 24px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+color: #2A254B;
+
+}
+
+.prefooter-text p{
+
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+color: #505977;
+
+}
+
+.prefooter-text__btn .btn{
+    margin: 0 auto;
+    background-color: #F9F9F9;
+    padding: 16px 32px;
+    color: #2A254B;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+
+
+.prefooter-img{
+ max-width: 720px;
+ flex-basis: 50%;
+ 
+}
+
+
+
+/* MEADIA */
+
+@media (max-width: 1200px) {
+   .prefooter-content{
+    justify-content: center;
+    
+   }
+
+}
+@media (max-width: 992px) {
+  .prefooter-img{
+      max-width: 720px;
+      flex-basis: 100%;
+      
+     }
+  
+}
+
+@media (max-width: 767px) {
+
+  .prefooter-text{
+    padding: 48px 0 38px;
+  }
+  .prefooter-text__title{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 12px;
+  }
+
+  .prefooter-text p{
+font-size: 14px;
+line-height: 21px;
+    }
+
+   
+     
+}

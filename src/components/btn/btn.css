@@ -1,0 +1,26 @@
+.btn{
+    margin: 0 auto;
+    background-color: #F9F9F9;
+    padding: 16px 32px;
+    color: #2A254B;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+
+.block-btn{
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    
+    
+    .block-btn{
+        display:block;
+    }
+
+
+
+   }

@@ -1,0 +1,50 @@
+.product-card__image{
+    margin-bottom: 24px;
+    max-width: 305px;
+}
+.product-card__text{
+    margin-bottom: 8px;
+    color: #2A254B;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.product-card__price{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    color: #2A254B;
+}
+
+
+
+
+@media (max-width: 1200px) {
+.product-card__image {
+    margin-bottom: 24px;
+    max-width: 240px;
+}
+ 
+  }
+  @media (max-width: 992px) {
+    
+    .product-card__image {
+        margin-bottom: 24px;
+        max-width: 220px;
+    }
+ 
+   
+  }
+ 
+  @media (max-width: 767px) {
+    .product-card__image {
+       
+        max-width: 220px;
+    }
+    
+
+  }

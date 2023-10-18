@@ -1,0 +1,92 @@
+.join{
+    background-color: #F9F9F9;
+    padding: 52px 0 65px;
+}
+
+.join-content{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 68px 0 54px;
+}
+
+.join__title{
+font-size: 36px;
+font-weight: 400;
+line-height: 50px;
+letter-spacing: 0em;
+color: #2A254B;
+margin-bottom: 16px;
+}
+
+.join__text{
+    max-width: 470px;
+    color: #2A254B;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+margin: 0 auto 72px;
+
+}
+
+.input__text{
+    padding: 17px 0 17px 32px;
+    max-width: 354px;
+    height: 56px;
+
+
+
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+
+
+        color: #2A254B;
+        background-color: #F9F9F9;
+        
+        background-clip: padding-box;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.input__text::placeholder {
+    color: #2A254B;
+    opacity: 20%;
+  }
+
+  
+  .input__btn{
+    margin: 0 auto;
+    background: #2A254B;
+    padding: 16px 32px;
+    color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  }
+
+  @media (max-width: 767px) {
+   
+    .join{
+        padding: 0;
+        background-color: #fff;
+    }
+    .join-content{
+        padding: 48px 0 38px;
+    }
+    .join__text{
+        text-align: left;
+    font-size: 14px;
+ 
+    line-height: 21px;
+        margin: 0 auto 64px;
+    
+    }
+    .join__title{
+        font-size: 20px;
+        line-height: 28px;
+        text-align: left;
+    }
+
+}
