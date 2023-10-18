@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/furniturerstore-react/static/css/main.940fb729.css",
+    "main.js": "/furniturerstore-react/static/js/main.2f39da98.js",
+    "static/media/prefooter.png": "/furniturerstore-react/static/media/prefooter.cb3ea3e380b8e8956ce5.png",
+    "static/media/allproduct.png": "/furniturerstore-react/static/media/allproduct.573b4d6cee9fa93425b6.png",
+    "static/media/06big.png": "/furniturerstore-react/static/media/06big.937fc8a7013bb092953b.png",
+    "static/media/05.png": "/furniturerstore-react/static/media/05.4156712f89383ec2109a.png",
+    "static/media/promo.png": "/furniturerstore-react/static/media/promo.0b14bea254d6abda4be2.png",
+    "static/media/imgBig.png": "/furniturerstore-react/static/media/imgBig.0cdda2a3ebe86c622004.png",
+    "static/media/02.png": "/furniturerstore-react/static/media/02.ddf2709c32d20de0296b.png",
+    "static/media/07.png": "/furniturerstore-react/static/media/07.5d5b96ed41a52376e549.png",
+    "static/media/09.png": "/furniturerstore-react/static/media/09.a4123ab22c0458ab6e62.png",
+    "static/media/06.png": "/furniturerstore-react/static/media/06.4156712f89383ec2109a.png",
+    "static/media/04.png": "/furniturerstore-react/static/media/04.a54a7b8cf22b9c93a18f.png",
+    "static/media/08.png": "/furniturerstore-react/static/media/08.2459a68c3cca26e6f5ad.png",
+    "static/media/01.png": "/furniturerstore-react/static/media/01.113152d8d976132150a7.png",
+    "static/media/03.png": "/furniturerstore-react/static/media/03.7cb457d5c924edfdaf0f.png",
+    "static/media/instagram.svg": "/furniturerstore-react/static/media/instagram.4dcbe80eef661ea249033a792a23e575.svg",
+    "static/media/skype.svg": "/furniturerstore-react/static/media/skype.46011a2c61a701b4150c571fdccf5720.svg",
+    "static/media/delivery.svg": "/furniturerstore-react/static/media/delivery.9d485acbbe154a2ad6268ed4008b5ad9.svg",
+    "static/media/user-avatar.svg": "/furniturerstore-react/static/media/user-avatar.43be6e9090195cce0e29359a96f8ae93.svg",
+    "static/media/pinterest.svg": "/furniturerstore-react/static/media/pinterest.bd5fa65d8525679e8344b81f444406a3.svg",
+    "static/media/twitter.svg": "/furniturerstore-react/static/media/twitter.efd63410cfd936a22313ce617138a3bf.svg",
+    "static/media/sprout.svg": "/furniturerstore-react/static/media/sprout.485366225c6ec92e4931d08de4dc584c.svg",
+    "static/media/checkmark.svg": "/furniturerstore-react/static/media/checkmark.192bb551144e8487e0e3f9ec6686796a.svg",
+    "static/media/search.svg": "/furniturerstore-react/static/media/search.018d669beaef615bd19fb7542a889683.svg",
+    "static/media/shopping-cart.svg": "/furniturerstore-react/static/media/shopping-cart.f8bc166cac7c5731b50e483026ec417e.svg",
+    "static/media/facebook.svg": "/furniturerstore-react/static/media/facebook.1a6bb485bcbfb8a3bdf5007a9f9014f0.svg",
+    "index.html": "/furniturerstore-react/index.html",
+    "static/media/linkedin.svg": "/furniturerstore-react/static/media/linkedin.beca4b8e18ed8fcea08a7e9ef2ba8a1d.svg",
+    "static/media/purchase.svg": "/furniturerstore-react/static/media/purchase.4aeb937f0cfaa78c7c1d3330d3d529ea.svg",
+    "main.940fb729.css.map": "/furniturerstore-react/static/css/main.940fb729.css.map",
+    "main.2f39da98.js.map": "/furniturerstore-react/static/js/main.2f39da98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940fb729.css",
+    "static/js/main.2f39da98.js"
+  ]
+}
