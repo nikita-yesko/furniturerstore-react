@@ -13,7 +13,7 @@ const Footer = () => {
                 <div className="footer-content">
                     <div className="footer-info">
                         <div className="footer-info__logo">
-                        <a href="/">Avion</a>
+                        <a href="/furniturerstore-react/">Avion</a>
                         </div>
                         <div className="footer-nav">
                             <p className="footer-item">21 New York Street</p>

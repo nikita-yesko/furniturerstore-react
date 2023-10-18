@@ -12,7 +12,7 @@ const Header = () => {
             <div className="container">
                 <div className="header-top">
                     <div className="header-top__search"><a href="#!"><img src={searchImg} alt="search" /></a></div>
-                    <div className="header-top__logo"><a href="/">Avion</a></div>
+                    <div className="header-top__logo"><a href="/furniturerstore-react/">Avion</a></div>
                     <div className="header-top__menu">
                         <a href="#!"><img src={shoppingImg} alt="shopping-cart" /></a>
                         <a href="#!"><img src={avatarImg} alt="user avatar" /></a>
@@ -21,13 +21,13 @@ const Header = () => {
                 <nav className="header-nav">
                     <ul className="header-nav__list">
                         <li className="header-nav__item">
-                            <a href="/" className="header-nav__link">Home</a>
+                            <a href="/furniturerstore-react/" className="header-nav__link">Home</a>
                         </li>
                         <li className="header-nav__item">
-                            <a href="/allproducts" className="header-nav__link">All products</a>
+                            <a href="/furniturerstore-react/allproducts" className="header-nav__link">All products</a>
                         </li>
                         <li className="header-nav__item">
-                            <a href="/product" className="header-nav__link">Product</a>
+                            <a href="/furniturerstore-react/product" className="header-nav__link">Product</a>
                         </li>
                     </ul>
                 </nav>
