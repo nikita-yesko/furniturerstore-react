@@ -23,10 +23,10 @@ function App() {
         <main>
         <Routes>
           
-          <Route path='/' element={<HomePage/>}/>
-          <Route path='/product' element={<ProductPage/>}/>
-          <Route path='/allproducts' element={<AllProductsPage/>}/>
-          <Route path='/cart' element={<ShoppingCartPage/>}/>
+          <Route path='/furniturerstore-react/' element={<HomePage/>}/>
+          <Route path='/furniturerstore-react/product' element={<ProductPage/>}/>
+          <Route path='/furniturerstore-react/allproducts' element={<AllProductsPage/>}/>
+          <Route path='/furniturerstore-react/cart' element={<ShoppingCartPage/>}/>
           
         </Routes>
         </main>
